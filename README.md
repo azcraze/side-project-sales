@@ -5,7 +5,7 @@
 
 ## What
 
-The [Side Project Sales Checklist](https://www.sideprojectchecklist.com/sales-checklist) is a comprehensive, chronologically ordered list of sales tactics that you can try with your next side project. The list is free and open source, so feel free to [suggest your own additions anytime](https://github.com/karllhughes/side-project-sales/issues).
+The [Side Project Sales Checklist](https://www.sideprojectchecklist.com/sales-checklist) is a comprehensive, chronologically ordered list of sales tactics that you can try with your next side project. The list is free and open source, so feel free to [suggest your own additions anytime](https://github.com/portable-cto/side-project-sales/issues).
 
 
 ## Why
@@ -15,7 +15,7 @@ A lot of developers have great side projects, but they hate the idea of sales. W
 
 ## Quickstart
 
-1. Copy the [sales-checklist.md](sales-checklist.md) file or [fork this repository](https://github.com/karllhughes/side-project-sales).
+1. Copy the [sales-checklist.md](sales-checklist.md) file or [fork this repository](https://github.com/portable-cto/side-project-sales).
 
 2. Add, remove, or modify the tactics as you see fit based on your project, experience, and customers.
 
@@ -25,7 +25,7 @@ A lot of developers have great side projects, but they hate the idea of sales. W
 
 The checklist and companion blog posts are also available online at [sideprojectchecklist.com](https://www.sideprojectchecklist.com/).
 
-Don't forget to also check out the [Side Project Marketing Checklist](https://github.com/karllhughes/side-project-marketing) as well.
+Don't forget to also check out the [Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) as well.
 
 
 ## Contributing
